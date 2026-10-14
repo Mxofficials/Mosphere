@@ -1,0 +1,22 @@
+{
+  "name": "Moses | Tech Developer Portfolio",
+  "short_name": "MosesTech",
+  "description": "Portfolio Web App of Moses - Tech Innovator & Web Developer from Lagos, Nigeria.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/00f2fe/0d1117?text=M",
+      "type": "imagepng",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://via.placeholder.com/512/00f2fe/0d1117?text=M",
+      "type": "imagepng",
+      "sizes": "512x512"
+    }
+  ]
+}
